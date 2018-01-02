@@ -30,4 +30,4 @@ Our database has four knowed challenges of background subtraction. We discrimina
 
 ## Requirements: software
 
-The script Demo.m summarizes the Experiments 1 and 2 of the paper **Camera-trap images segmentation using multi-layer robust principal component analysis**. Furthermore, we need the [LRS Library](https://github.com/andrewssobral/lrslibrary).
+The script *Demo.m* summarizes the Experiments 1 and 2 of the paper *Camera-trap images segmentation using multi-layer robust principal component analysis*. Furthermore, we need the [LRS Library](https://github.com/andrewssobral/lrslibrary).
